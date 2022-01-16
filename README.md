@@ -1,6 +1,6 @@
 # testai Heroku
 
-**若需部署 testai b2，请转到 [vless](https://github.com/mypine/testai/tree/b2) 分支。**
+**若需部署 testai b2，请转到 [b2](https://github.com/mypine/testai/tree/b2) 分支。**
 
 ## 概述
 
