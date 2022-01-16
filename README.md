@@ -1,12 +1,12 @@
-# V2Ray Heroku
+# testai Heroku
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/mypine/testai/tree/vless) 分支。**
+**若需部署 testai b2，请转到 [vless](https://github.com/mypine/testai/tree/b2) 分支。**
 
 ## 概述
 
-本专案用于在 Heroku 上部署 V2Ray WebSocket，在合理使用的程度下，本镜像不会因为大量占用资源而导致封号。
+本专案用于在 Heroku 上部署 testai，在合理使用的程度下，本镜像不会因为大量占用资源而导致封号。
 
-部署完成后，每次启动应用时，运行的 V2Ray 将始终为最新版本
+部署完成后，每次启动应用时，运行的 testai 将始终为最新版本
 
 ## 部署
 
